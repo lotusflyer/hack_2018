@@ -8,6 +8,10 @@ name = "pypi"
 [packages]
 ipykernel = "*"
 pandas = "*"
+statsmodels = "*"
+scikit-learn = "*"
+matplotlib = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.6"
