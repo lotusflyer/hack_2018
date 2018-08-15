@@ -12,6 +12,9 @@ statsmodels = "*"
 scikit-learn = "*"
 matplotlib = "*"
 scipy = "*"
+census = "*"
+censusdata = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
