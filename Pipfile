@@ -15,6 +15,10 @@ scipy = "*"
 census = "*"
 censusdata = "*"
 seaborn = "*"
+geopandas = "*"
+pyshp = "*"
+osr = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.6"
